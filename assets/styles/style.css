@@ -243,6 +243,7 @@ a {
 /* FOOOTER */
 .footer {
 	background: var(--navy-blue);
+	width:100%;
 	height: 312px;
 	display: flex;
 	justify-self: flex-start;
